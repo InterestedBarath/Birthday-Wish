@@ -52,6 +52,9 @@
   img.birthday {
     max-height: 40vh;
   }
+  p::hover{
+      colour: white;
+  }
   
   .text {
     padding: 1em;
